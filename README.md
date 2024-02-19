@@ -1,0 +1,1 @@
+# Design pattern , Solid class Interface
